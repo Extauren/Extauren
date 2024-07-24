@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+![](https://github-readme-stats.vercel.app/api?username=Extauren&show_icons=true&theme=tokyonight&hide_border=true&locale=en)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Extauren&theme=material-palenight)
+</div>
+
 <!--
 **Extauren/Extauren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
